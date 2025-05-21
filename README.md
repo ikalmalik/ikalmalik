@@ -1,7 +1,6 @@
 <p align="center">
   <img src="C11.png" alt="C11" width="100%" height="400"/>
 </p>
-
 [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/ikalmalik)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abdul.madinu)
