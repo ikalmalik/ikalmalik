@@ -19,7 +19,7 @@
 
 ### <span style="font-weight: normal;">*Researcher | Analyst*</span>  
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
-<hr style="border: 0.1px solid #ccc;"/>
+<hr style="border: 0.001px solid #ccc;"/>
 
 ### Assalammualaikum and Hi there 👋
 ___
