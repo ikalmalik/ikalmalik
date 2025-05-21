@@ -1,9 +1,6 @@
 <p align="center">
   <img src="C11.png" alt="C11" width="100%" />
 </p>
-
-# Climate, Atmospher, and Environmental
-
 **Researcher | Analyst**  
 Hydrometeorology, CLimate Modelling, Remote Sensing, Geospatial Intelligence
 
