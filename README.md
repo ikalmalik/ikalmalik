@@ -11,7 +11,8 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/Abd-A-Madinu?ev=hdr_xprf)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7448-5030)
 [![Scopus](https://img.shields.io/badge/Scopus-222222?style=flat&logo=Elsevier&logoColor=orange)](https://www.scopus.com/authid/detail.uri?authorId=59132873200)
-
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
 
 
 ---
