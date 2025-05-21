@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
 
 **Researcher | Analyst**  
-Hydrometeorology, CLimate Modelling, Remote Sensing, Geospatial Intelligence
+Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence
 
 ---
 
