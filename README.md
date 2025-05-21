@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="C11.png" alt="Forest and Geoscience Banner" width="100%" />
+  <img src="C11.png" alt="C11" width="100%" />
 </p>
 
-# Forest and Geoscience
+# Climate, Atmospher, and Environmental
 
-🌳 **Researcher | Analyst**  
-Remote Sensing, Forest Monitoring, Geospatial Intelligence
+**Researcher | Analyst**  
+Hydrometeorology, CLimate Modelling, Remote Sensing, Geospatial Intelligence
 
 [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/ikalmalik)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
