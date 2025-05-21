@@ -2,13 +2,14 @@
   <img src="https://your-image-url/banner.png" alt="Banner" width="100%" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-arihutan-informational?style=flat&logo=github)](https://github.com/ikalmalik)
+[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-informational?style=flat&logo=github)](https://github.com/ikalmalik)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/Abd-A-Madinu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/abd-malik-a-madinu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abdul.madinu)
-[![StackExchange](https://img.shields.io/badge/StackExchange-1E5397?style=flat&logo=stackexchange&logoColor=white)](https://stackexchange.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/im_malik_am)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Ikalmalik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/abd-malik-a-madinu)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/Abd-A-Madinu?ev=hdr_xprf)
+
 
 ---
 
