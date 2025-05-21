@@ -46,8 +46,6 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![Arduino IDE](https://img.shields.io/badge/ARDUINO%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-
 ## 📚 Publication
 
 - ES Nugraha, AMA Madinu, SZ Jannah, TH Ameiliani, Asy’Ari R. 2024. Investigating the Impact of the Tsunami at Handeleum Island Resort, Ujung Kulon National Park Using Geospatial Technology. *SSRS Journal B: Spatial Research*. 2: 24-35.
