@@ -17,16 +17,14 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
 
-### *Researcher | Analyst* 
-___
-
+### *Researcher | Analyst*
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence
+___
 
 ### Assalammualaikum and Hi there 👋
 ___
 
 I am an undergraduate student in the Applied Meteorology Study Program, Department of Geophysics and Meteorology, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
-
 
 ### Interested and Skills in Progress
 
