@@ -18,7 +18,7 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 
 ---
 
-### 🛠 Interested and Skills in Progress
+### Interested and Skills in Progress
 
 ![RStudio](https://img.shields.io/badge/RSTUDIO-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
