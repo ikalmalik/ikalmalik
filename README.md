@@ -2,7 +2,7 @@
   <img src="https://your-image-url/banner.png" alt="Banner" width="100%" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ikalmalik)
+[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/ikalmalik)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abdul.madinu)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/im_malik_am)
