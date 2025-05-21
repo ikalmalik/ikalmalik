@@ -1,8 +1,6 @@
 <p align="center">
   <img src="C11.png" alt="C11" width="100%" />
 </p>
-**Researcher | Analyst**  
-Hydrometeorology, CLimate Modelling, Remote Sensing, Geospatial Intelligence
 
 [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/ikalmalik)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
@@ -19,6 +17,8 @@ Hydrometeorology, CLimate Modelling, Remote Sensing, Geospatial Intelligence
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
 
+**Researcher | Analyst**  
+Hydrometeorology, CLimate Modelling, Remote Sensing, Geospatial Intelligence
 
 ---
 
