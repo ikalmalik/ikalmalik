@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arihutan">GitHub</a> •
+  [![GitHub](https://img.shields.io/badge/GitHub-arihutan-informational?style=flat&logo=github)](https://github.com/ikalmalik)
   <a href="https://www.instagram.com/ikalitsme/">Instagram</a> •
   <a href="https://www.researchgate.net/profile/YourName">ResearchGate</a> •
   <a href="https://linkedin.com/in/yourname">LinkedIn</a> •
