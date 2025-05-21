@@ -2,13 +2,14 @@
   <img src="https://your-image-url/banner.png" alt="Banner" width="100%" />
 </p>
 
-<p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-arihutan-informational?style=flat&logo=github)](https://github.com/ikalmalik)
-  <a href="https://www.instagram.com/ikalitsme/">Instagram</a> •
-  <a href="https://www.researchgate.net/profile/YourName">ResearchGate</a> •
-  <a href="https://linkedin.com/in/yourname">LinkedIn</a> •
-  <a href="mailto:your.email@example.com">Email</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-arihutan-informational?style=flat&logo=github)](https://github.com/ikalmalik)
+[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arihutan)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
+[![Line](https://img.shields.io/badge/Line-00C300?style=flat&logo=line&logoColor=white)](https://line.me)
+[![StackExchange](https://img.shields.io/badge/StackExchange-1E5397?style=flat&logo=stackexchange&logoColor=white)](https://stackexchange.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 
 ---
 
