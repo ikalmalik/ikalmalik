@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C11.png" alt="C11" width="100%" height="100"/>
+  <img src="C11.png" alt="C11" width="100%" height="500"/>
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/ikalmalik)
