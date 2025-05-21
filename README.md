@@ -37,7 +37,7 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white)
-![Surfer 10](https://img.shields.io/badge/Surfer%2010-FFD700?style=for-the-badge&logo=golden&logoColor=black)
+![Surfer 10](https://img.shields.io/badge/Surfer%2010-A2AAB0?style=for-the-badge&logo=golden&logoColor=black)
 ![OpenGrADS](https://img.shields.io/badge/OpenGrADS-005F87?style=for-the-badge&logo=gnu&logoColor=white)
 ![AERMET View](https://img.shields.io/badge/AERMET%20View-6A0DAD?style=for-the-badge&logo=windy&logoColor=white)
 ![Ocean Data View](https://img.shields.io/badge/Ocean%20Data%20View-003366?style=for-the-badge&logo=oceanengine&logoColor=white)
