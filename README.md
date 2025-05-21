@@ -40,7 +40,7 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![Surfer 10](https://img.shields.io/badge/Surfer%2010-FFD700?style=for-the-badge&logo=golden&logoColor=black)
 ![OpenGrADS](https://img.shields.io/badge/OpenGrADS-005F87?style=for-the-badge&logo=gnu&logoColor=white)
 ![AERMET View](https://img.shields.io/badge/AERMET%20View-6A0DAD?style=for-the-badge&logo=windy&logoColor=white)
-![Ocean Data View](https://img.shields.io/badge/Ocean%20Data%20View-1B65A7?style=for-the-badge&logo=oceanengine&logoColor=white)
+![Ocean Data View](https://img.shields.io/badge/Ocean%20Data%20View-003366?style=for-the-badge&logo=oceanengine&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/ARDUINO%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
