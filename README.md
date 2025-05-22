@@ -30,7 +30,7 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ### 💻 Interested and Skills in Progress
 
 ![RStudio](https://img.shields.io/badge/RSTUDIO-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![RStudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Spyder IDE](https://img.shields.io/badge/SPYDER%20IDE-FF0000?style=for-the-badge&logo=spyder&logoColor=white)
