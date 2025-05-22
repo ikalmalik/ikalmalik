@@ -16,6 +16,7 @@
 [![Scopus](https://img.shields.io/badge/Scopus-222222?style=flat&logo=Elsevier&logoColor=orange)](https://www.scopus.com/authid/detail.uri?authorId=59132873200)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
+[![My YouTube](https://img.shields.io/badge/My-YouTube-red?style=flat&logo=youtube&logoColor=white&labelColor=444444)](https://youtube.com/YOUR_CHANNEL)
 
 ### <span style="font-weight: normal;">*Researcher | Analyst*</span>  
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
