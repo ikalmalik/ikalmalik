@@ -13,7 +13,7 @@ Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence
 
 ### Assalammualaikum and Hi there 👋
 I am an undergraduate student in the Applied Meteorology Study Program, Department of Geophysics and Meteorology, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
----
+--
 
 ### 💻 Interested and Skills in Progress
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
