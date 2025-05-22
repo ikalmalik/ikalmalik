@@ -16,7 +16,7 @@
 [![RPubs](https://img.shields.io/badge/RPubs-276DC3?style=flat&logo=r&logoColor=white)](https://rpubs.com/Ikalmalik)
 [![ECMWF ERA5](https://img.shields.io/badge/ECMWF%20ERA5-2196F3?style=flat&logo=rainmeter&logoColor=white)](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)
 [![BMKG Online](https://img.shields.io/badge/WeatherAccess%20Online-009688?style=flat&logo=theweatherchannel&logoColor=white)](https://dataonline.bmkg.go.id/beranda)
-[![My LinkedIn](https://img.shields.io/badge/My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=444444)](https://linkedin.com/in/YOUR_USERNAME)
+
 
 
 ### <span style="font-weight: normal;">*Researcher | Analyst*</span>  
