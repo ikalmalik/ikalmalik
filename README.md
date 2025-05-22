@@ -38,6 +38,8 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 
 - AM Abd Malik, NA Jouhary, A Ulfa, IN Rahmdhanti, NH Pudjawati, R Asy'Ari, NP Zamani, R Pramulya, Y Setiawan. 2024. Monitoring of coastal dynamics at Subang Regency using Landsat Collection Data and Cloud Computing Based. *BIO Web Conf. Volume 106, 2024. ser: Marine Remote Sensing & GIS*. 18: 04005 [https://doi.org/10.1051/bioconf/202410604005](https://doi.org/10.1051/bioconf/202410604005)
 
+- R Asy'ari, AD Rahmawati, A Dzulfigar, KP Marfi, A Ulfa, RF Puspitasari, HR Saputri, MF Aslam, NA Jouhary, AM Abd Malik, F Raihan, MH Fadhil, MA Duta Hidayat, IA Ananda, AC Nurrahmah, NP Zamani, R Pramulya, Y Setiawan. 2023. Mangrove Damage vs Succession: An Opinion on the Journey of Mangrove Investigation Studies in Subang Regency Coast Area. *SSRS Journal A: Agro-Environmental Research*. (1) 1: 01-06.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
