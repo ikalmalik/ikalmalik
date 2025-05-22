@@ -2,12 +2,12 @@
   <img src="C11.png" alt="C11.ong" width="100%" style="max-height: 400px; object-fit: cover;"/>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-black?style=social&logo=github&logoColor=gold)](https://github.com/ikalmalik)
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abdul.madinu)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/im_malik_am)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Ikalmalik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/abd-malik-a-madinu)
+[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-black?style=social&logo=github&logoColor=black)](https://github.com/ikalmalik)
+[![My Instagram](https://img.shields.io/badge/My_Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
+[![My Facebook](https://img.shields.io/badge/My_Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abdul.madinu)
+[![My X](https://img.shields.io/badge/My_X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/im_malik_am)
+[![My Telegram](https://img.shields.io/badge/My_Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Ikalmalik)
+[![My LinkedIn](https://img.shields.io/badge/My_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/abd-malik-a-madinu)
 [![RPubs](https://img.shields.io/badge/RPubs-276DC3?style=flat&logo=r&logoColor=white)](https://rpubs.com/Ikalmalik)
 [![ECMWF ERA5](https://img.shields.io/badge/ECMWF%20ERA5-2196F3?style=flat&logo=rainmeter&logoColor=white)](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)
 [![BMKG Online](https://img.shields.io/badge/WeatherAccess%20Online-009688?style=flat&logo=theweatherchannel&logoColor=white)](https://dataonline.bmkg.go.id/beranda)
