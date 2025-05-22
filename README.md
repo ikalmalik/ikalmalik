@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 10px;">
-  <img src="C11.png" alt="C12.ong" width="100%" style="max-height: 100px; object-fit: cover;"/>
+  <img src="C12.png" alt="C12.ong" width="100%" style="max-height: 100px; object-fit: cover;"/>
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-black?style=social&logo=github&logoColor=black)](https://github.com/ikalmalik)
