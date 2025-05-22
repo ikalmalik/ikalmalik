@@ -6,9 +6,8 @@
 
 
 
-# <span style="font-weight: normal;">*Researcher | Analyst*</span>
+# *Researcher | Analyst*
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
-<hr style="border: 0.001px solid #ccc;"/>
 
 
 # Assalammualaikum and Hi there 👋:
