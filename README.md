@@ -6,13 +6,11 @@
 
 
 
-### *Researcher | Analyst*
--------------------------------------
+# *Researcher | Analyst*
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
 
 
-### Assalammualaikum and Hi there 👋:
-----------------------------------------
+# Assalammualaikum and Hi there 👋:
 I am an undergraduate student in the Applied Meteorology Study Program, Department of Geophysics and Meteorology, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
 
 
@@ -44,7 +42,6 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikalmalik&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
