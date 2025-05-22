@@ -53,3 +53,12 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 
 - AM Abd Malik, NA Jouhary, A Ulfa, IN Rahmdhanti, NH Pudjawati, R Asy'Ari, NP Zamani, R Pramulya, Y Setiawan. 2024. Monitoring of coastal dynamics at Subang Regency using Landsat Collection Data and Cloud Computing Based. *BIO Web Conf. Volume 106, 2024. ser: Marine Remote Sensing & GIS*. 18: 04005 [https://doi.org/10.1051/bioconf/202410604005](https://doi.org/10.1051/bioconf/202410604005)
 
+### 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikalmalik&show_icons=true&theme=default&rank_icon=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikalmalik&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&layout=compact&langs_count=10&theme=default)
+
+
