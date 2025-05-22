@@ -30,7 +30,7 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ### 💻 Interested and Skills in Progress
 
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
-![R](https://img.shields.io/badge/RSTUDIO-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
+![R](https://img.shields.io/badge/RSTUDIO-276DC3?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Spyder IDE](https://img.shields.io/badge/SPYDER%20IDE-FF0000?style=for-the-badge&logo=spyder&logoColor=white)
@@ -44,12 +44,6 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![Ocean Data View](https://img.shields.io/badge/Ocean%20Data%20View-003366?style=for-the-badge&logo=oceanengine&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/ARDUINO%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![RMarkdown](https://img.shields.io/badge/RMarkdown-198CE7?style=for-the-badge&logo=rmarkdown&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-999999?style=for-the-badge&logo=tidyverse&logoColor=white)
-
 
 ### 📚 Publication
 
