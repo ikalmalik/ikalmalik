@@ -2,7 +2,7 @@
   <img src="C11.png" alt="C11.ong" width="100%" style="max-height: 400px; object-fit: cover;"/>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=flat&logo=github&logoColor=black)](https://github.com/ikalmalik)
+[![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-FFD700?style=social&logo=github&logoColor=black)](https://github.com/ikalmalik)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ikalitsme)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/abdul.madinu)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/im_malik_am)
@@ -29,9 +29,9 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 
 ### 💻 Interested and Skills in Progress
 
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=rstudioide&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=FFD700)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Spyder IDE](https://img.shields.io/badge/SPYDER%20IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
 ![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
