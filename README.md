@@ -34,6 +34,8 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ### 📚 Publication
 - ES Nugraha, AMA Madinu, SZ Jannah, TH Ameiliani, Asy’Ari R. 2024. Investigating the Impact of the Tsunami at Handeleum Island Resort, Ujung Kulon National Park Using Geospatial Technology. *SSRS Journal B: Spatial Research*. 2: 24-35.
 
+- HR Saputri, R Asy'ari, AM Abd Malik, A Dzulfigar, KP Marfi, F Raihan, MH Fadhil, SZ Adni,  IN Rahmdhanti, ES Nugraha, EI Putra, I Istomo, NP Zamani, R Pramulya, Y Setiawan. 2024. Hotspot Distribution Assessment on The Peat Hydrological Unit (PHU) in Riau Province. *SSRS Journal B: Spatial Research*. 2: 44-56.
+
 - AM Abd Malik, NA Jouhary, A Ulfa, IN Rahmdhanti, NH Pudjawati, R Asy'Ari, NP Zamani, R Pramulya, Y Setiawan. 2024. Monitoring of coastal dynamics at Subang Regency using Landsat Collection Data and Cloud Computing Based. *BIO Web Conf. Volume 106, 2024. ser: Marine Remote Sensing & GIS*. 18: 04005 [https://doi.org/10.1051/bioconf/202410604005](https://doi.org/10.1051/bioconf/202410604005)
 
 
