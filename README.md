@@ -10,14 +10,12 @@
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
 <hr style="border: 0.001px solid #ccc;"/>
 
-### Assalammualaikum and Hi there 👋
----
 
+### Assalammualaikum and Hi there 👋
 I am an undergraduate student in the Applied Meteorology Study Program, Department of Geophysics and Meteorology, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
 
 
 ### 💻 Interested and Skills in Progress
-
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
@@ -35,14 +33,12 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![Markdown](https://img.shields.io/badge/MARKDOWN-3C3C3D?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📚 Publication
-
 - ES Nugraha, AMA Madinu, SZ Jannah, TH Ameiliani, Asy’Ari R. 2024. Investigating the Impact of the Tsunami at Handeleum Island Resort, Ujung Kulon National Park Using Geospatial Technology. *SSRS Journal B: Spatial Research*. 2: 24-35.
 
 - AM Abd Malik, NA Jouhary, A Ulfa, IN Rahmdhanti, NH Pudjawati, R Asy'Ari, NP Zamani, R Pramulya, Y Setiawan. 2024. Monitoring of coastal dynamics at Subang Regency using Landsat Collection Data and Cloud Computing Based. *BIO Web Conf. Volume 106, 2024. ser: Marine Remote Sensing & GIS*. 18: 04005 [https://doi.org/10.1051/bioconf/202410604005](https://doi.org/10.1051/bioconf/202410604005)
 
----
-### 📊 GitHub Stats:
 
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikalmalik&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
