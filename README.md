@@ -43,10 +43,6 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ---
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikalmalik&show_icons=true&theme=default&rank_icon=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikalmalik&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&layout=compact&langs_count=6&theme=default)
-
 ![](https://github-readme-stats.vercel.app/api?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikalmalik&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
