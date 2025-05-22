@@ -8,7 +8,7 @@
 [![My X](https://img.shields.io/badge/My-X-000000?style=flat&logo=twitter&logoColor=white&labelColor=444444)](https://x.com/im_malik_am)
 [![My Telegram](https://img.shields.io/badge/My-Telegram-26A5E4?style=flat&logo=telegram&logoColor=26A5E4&labelColor=444444)](https://t.me/Ikalmalik)
 [![My LinkedIn](https://img.shields.io/badge/My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=444444)](https://linkedin.com/in/abd-malik-a-madinu)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/in/Abd-A-Madinu?ev=hdr_xprf)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Abd-A-Madinu?ev=hdr_xprf)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7448-5030)
 [![Scopus](https://img.shields.io/badge/Scopus-222222?style=flat&logo=Elsevier&logoColor=orange)](https://www.scopus.com/authid/detail.uri?authorId=59132873200)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)
