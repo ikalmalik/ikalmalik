@@ -52,6 +52,7 @@ ________________________________________________________________________________
 <br /> _SSRS Indonesia Tropic Ecological Observatory, SSRS Group_
 <br /> malikzone314@gmail.com   abd.malik@apps.ipb.ac.id
 <br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
+
 <a href="mailto:Malikzone314@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/480px-Gmail_Icon.png" alt="Email" style="width: 40px; height: 40px; border-radius: 50%;">
 </a>
