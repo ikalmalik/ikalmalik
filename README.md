@@ -7,12 +7,13 @@
 
 
 # **Researcher | Analyst**
+**``Division``**
 Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
 
 
 # Assalammualaikum and Hi there 👋:
 **``This is about me``**
-I am an undergraduate student in the Applied Meteorology Study Program, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
+<br /> I am an undergraduate student in the Applied Meteorology Study Program, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University). Currently engaged in Remote Sensing and GIS in the fields of atmosphere and climate, environmental science, and Geoscience as well as agriculture. Also, computational sciences based on current technology are being developed, such as the use of programming languages R, Python, and JavaScript through Google Earth Engine. The use of cloud computing-based instrumentation technology and machine learning is also being built, such as developing weather instrumentation (Automatic Weather Station).
 
 
 ### 💻 Interested and Skills in Progress
