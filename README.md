@@ -53,3 +53,59 @@ ________________________________________________________________________________
 <br /> malikzone314@gmail.com   abd.malik@apps.ipb.ac.id
 <br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
 
+<!-- Tambahkan Font Awesome di <head> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Container untuk ikon-ikon bulat -->
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  <!-- Twitter -->
+  <a href="https://x.com/im_malik_am" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #1DA1F2; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fab fa-twitter" style="color: white;"></i>
+    </div>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/ikalitsme" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #DD2A7B; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fab fa-instagram" style="color: white;"></i>
+    </div>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ikalmalik" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #000000; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fab fa-github" style="color: white;"></i>
+    </div>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:malikzone314@gmail.com" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #D14836; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fas fa-envelope" style="color: white;"></i>
+    </div>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/abd-malik-a-madinu" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #0077B5; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fab fa-linkedin-in" style="color: white;"></i>
+    </div>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/abdul.madinu" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #1877F2; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fab fa-facebook-f" style="color: white;"></i>
+    </div>
+  </a>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Abd-A-Madinu?ev=hdr_xprf" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #00CCBB; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+      <i class="fab fa-researchgate" style="color: white;"></i>
+    </div>
+  </a>
+
+</div>
