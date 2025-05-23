@@ -8,7 +8,7 @@
 
 # **Researcher | Analyst**
 **``Division``**
-Hydrometeorology, Climate Modelling, Remote Sensing, Geospatial Intelligence  
+<br /> Hydrometeorology, Climate Modelling, Remote Sensing and Geospatial Intelligence  
 
 
 # Assalammualaikum and Hi there 👋:
