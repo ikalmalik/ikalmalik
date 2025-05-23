@@ -2,7 +2,7 @@
   <img src="C12.png" alt="C12.png" width="100%" style="max-height: 100px; object-fit: cover;"/>
  <p
    
- [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-black?style=social&logo=github&logoColor=black)](https://github.com/ikalmalik)   [![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/ikalitsme)   [![My Facebook](https://img.shields.io/badge/My-Facebook-1877F2?style=flat&logo=facebook&logoColor=1877F2&labelColor=444444)](https://facebook.com/abdul.madinu)   [![My X](https://img.shields.io/badge/My-X-000000?style=flat&logo=twitter&logoColor=white&labelColor=444444)](https://x.com/im_malik_am)   [![My Telegram](https://img.shields.io/badge/My-Telegram-26A5E4?style=flat&logo=telegram&logoColor=26A5E4&labelColor=444444)](https://t.me/Ikalmalik)   [![My LinkedIn](https://img.shields.io/badge/My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=444444)](https://linkedin.com/in/abd-malik-a-madinu)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Abd-A-Madinu?ev=hdr_xprf)   [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7448-5030)   [![Scopus](https://img.shields.io/badge/Scopus-222222?style=flat&logo=Elsevier&logoColor=orange)](https://www.scopus.com/authid/detail.uri?authorId=59132873200)   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)   [![RPubs](https://img.shields.io/badge/RPubs-276DC3?style=flat&logo=r&logoColor=white)](https://rpubs.com/Ikalmalik)   [![ECMWF ERA5](https://img.shields.io/badge/ECMWF%20ERA5-2196F3?style=flat&logo=rainmeter&logoColor=white)](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)   [![BMKG Online](https://img.shields.io/badge/WeatherAccess%20Online-009688?style=flat&logo=theweatherchannel&logoColor=white)](https://dataonline.bmkg.go.id/beranda)
+ [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-black?style=social&logo=github&logoColor=darkgrey)](https://github.com/ikalmalik)   [![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/ikalitsme)   [![My Facebook](https://img.shields.io/badge/My-Facebook-1877F2?style=flat&logo=facebook&logoColor=1877F2&labelColor=444444)](https://facebook.com/abdul.madinu)   [![My X](https://img.shields.io/badge/My-X-000000?style=flat&logo=twitter&logoColor=white&labelColor=444444)](https://x.com/im_malik_am)   [![My Telegram](https://img.shields.io/badge/My-Telegram-26A5E4?style=flat&logo=telegram&logoColor=26A5E4&labelColor=444444)](https://t.me/Ikalmalik)   [![My LinkedIn](https://img.shields.io/badge/My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=444444)](https://linkedin.com/in/abd-malik-a-madinu)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Abd-A-Madinu?ev=hdr_xprf)   [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-7448-5030)   [![Scopus](https://img.shields.io/badge/Scopus-222222?style=flat&logo=Elsevier&logoColor=orange)](https://www.scopus.com/authid/detail.uri?authorId=59132873200)   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QsJ_8w8AAAAJ)   [![RPubs](https://img.shields.io/badge/RPubs-276DC3?style=flat&logo=r&logoColor=white)](https://rpubs.com/Ikalmalik)   [![ECMWF ERA5](https://img.shields.io/badge/ECMWF%20ERA5-2196F3?style=flat&logo=rainmeter&logoColor=white)](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview)   [![BMKG Online](https://img.shields.io/badge/WeatherAccess%20Online-009688?style=flat&logo=theweatherchannel&logoColor=white)](https://dataonline.bmkg.go.id/beranda)
 
 
 
@@ -52,17 +52,4 @@ ________________________________________________________________________________
 <br /> _SSRS Indonesia Tropic Ecological Observatory, SSRS Group_
 <br /> malikzone314@gmail.com   abd.malik@apps.ipb.ac.id
 <br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
-
-<a href="mailto:Malikzone314@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/480px-Gmail_Icon.png" alt="Email" style="width: 40px; height: 40px; border-radius: 50%;">
-</a>
-
-<a href="mailto:Malikzone314@gmail.com" style="text-decoration: none;">
-  <div style="display: inline-block; background-color: #D14836; color: white; border-radius: 50%; padding: 10px;">
-    <i class="fas fa-envelope" style="font-size: 20px;"></i>
-  </div>
-</a>
-
-<!-- Tambahkan ini di <head> jika belum -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
