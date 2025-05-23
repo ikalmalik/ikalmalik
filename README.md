@@ -57,4 +57,12 @@ ________________________________________________________________________________
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/480px-Gmail_Icon.png" alt="Email" style="width: 40px; height: 40px; border-radius: 50%;">
 </a>
 
+<a href="mailto:Malikzone314@gmail.com" style="text-decoration: none;">
+  <div style="display: inline-block; background-color: #D14836; color: white; border-radius: 50%; padding: 10px;">
+    <i class="fas fa-envelope" style="font-size: 20px;"></i>
+  </div>
+</a>
+
+<!-- Tambahkan ini di <head> jika belum -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
