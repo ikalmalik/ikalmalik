@@ -43,6 +43,12 @@ I am an undergraduate student in the Applied Meteorology Study Program, Departme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikalmalik&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikalmalik&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+________________________________________________________________________________________________________________________________________________________
+**`Abd. Malik A Madinu`**
+<br /> _Department of Geophysics and Meteorology, Faculty of Mathematics and Natural Science, IPB University_
+<br /> _SSRS Fellow RO11 Dynamic Climate Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University_
+<br /> _SSRS Indonesia Tropic Ecological Observatory, SSRS Group_
+<br /> malikzone314@gmail.com   abd.malik@apps.ipb.ac.id
+<br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
