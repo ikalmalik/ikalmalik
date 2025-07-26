@@ -26,10 +26,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=FFD700)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearthengine&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white)
-![Surfer 10](https://img.shields.io/badge/Surfer%2010-A2AAB0?style=for-the-badge&logo=googleearth&logoColor=black)
 ![OpenGrADS](https://img.shields.io/badge/OpenGrADS-800020?style=for-the-badge&logo=pyg&logoColor=white)
 ![AERMET View](https://img.shields.io/badge/AERMET%20View-6A0DAD?style=for-the-badge&logo=ethers&logoColor=white)
-![Ocean Data View](https://img.shields.io/badge/Ocean%20Data%20View-1E4380?style=for-the-badge&logo=osano&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/ARDUINO%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-3C3C3D?style=for-the-badge&logo=markdown&logoColor=white)
 
